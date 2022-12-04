@@ -12,6 +12,7 @@
 ---
 
 - Programming is about trying to make the future less painful.
+  <br>
   Pragmatic Programmers get the job done, and do it well.
 
 <br>
