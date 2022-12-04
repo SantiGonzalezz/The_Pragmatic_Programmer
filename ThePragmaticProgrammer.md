@@ -109,6 +109,7 @@
   <br>
   <br>
   Before telling the bad news, is there anything else you can try?
+  <br>
   Sometimes, you just know what they are going to say, so save them the trouble.
 
     <br>
