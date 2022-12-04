@@ -18,19 +18,25 @@
 <br>
 
 - **Don't marry with a tool**.
+  <br>
   There is no best solution.
+  <br>
   Know enough technologies to choose the appropiate for the situation.
 
 <br>
 
 - **THINK !**
+  <br>
   Think about what you’re doing while you’re doing it.
+  <br>
   Never run on auto-pilot.
 
 <br>
 
 - **Kaizen**
+  <br>
   Continously making many small improvements.
+  <br>
   Every day, work to refine the skills you have and to add new tools to your repertoire.
 
 <br>
@@ -44,6 +50,7 @@
 **Chapter 1**
 
 - Think beyond the immediate problem.
+  <br>
   Seeking out the bigger picture.
 
 ---
@@ -65,6 +72,7 @@
 <br>
 
 - Make time to study new stuff.
+  <br>
   You are investing in yourself.
 
 ---
@@ -94,8 +102,11 @@
 <br>
 
 - **Provide Options, Don't Make Lame Excuses**
+  <br>
   Don’t blame someone or something else, or make up an excuse.
+  <br>
   Any of these may play a role, but **it is up to you to provide solutions**, not excuses.
+  <br>
   <br>
   Before telling the bad news, is there anything else you can try?
   Sometimes, you just know what they are going to say, so save them the trouble.
@@ -105,6 +116,7 @@
   - Don’t say it can’t be done; explain what can be done to salvage the situation.
     <br>
   - Admit what you don’t know, but then take responsibility like a pro.
+    <br>
     **“I don’t know,
     but I’ll find out.”**
 
@@ -119,8 +131,10 @@
 Software rot: disorder increase
 
 - **Don't Live with Broken Windows**
+  <br>
   Ignoring a clearly broken situation reinforces the ideas that perhaps nothing can be fixed
-  Fiex each one as soon as discovered.
+  <br>
+  Fix each one as soon as discovered.
   - Neglect accelerates the rot faster than any other factor.
 
 #### First, Do No Harm
